@@ -93,8 +93,10 @@ To get this project up and running on your local machine, follow these steps:
   * **Payment Gateway Integration**: Integrate secure online payment options for session bookings.
   * **Admin Dashboard**: Develop a backend dashboard for managing inquiries, bookings, and website content more efficiently.
 
+# PU HORSE RIDING
+
 ## 📸 Screenshots
 
 | Home Page | Contact Page | Email Inquiry |
 | :---: | :---: | :---: |
-|  |  |  |
+| ![PU Horse Riding Home Page](images/Screenshot%202025-06-09%20101450.jpg) | ![PU Horse Riding Contact Page](images/Screenshot%202025-06-09%20101809.jpg) | ![Email Inquiry Screenshot](images/Screenshot%202025-06-09%20101900.png) |
