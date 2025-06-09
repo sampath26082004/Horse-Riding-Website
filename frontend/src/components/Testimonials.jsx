@@ -15,7 +15,7 @@ const Testimonials = () => {
           </p>
         </div>
         <div className="testimonial-card">
-          <img src="/img2.jpg" alt="User 2" className="testimonial-img" />
+          <img src="/babai.jpg" alt="User 2" className="testimonial-img" />
           <h3 className="testimonial-name">Kantumutchu Bharath</h3>
           <p className="testimonial-role">Intermediate Rider</p>
           <p className="testimonial-text">
