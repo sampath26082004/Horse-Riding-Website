@@ -1,10 +1,3 @@
-Got it\! You want a README file for the GitHub repository you just shared: `https://github.com/sampath26082004/Horse-Riding-Website.git`
-
-I'll generate a README based on the previous discussion and the project's purpose (horse riding website with contact form, gallery, etc.).
-
-Here's the README file tailored for your repository:
-
------
 
 # PU HORSE RIDING
 
@@ -99,4 +92,5 @@ To get this project up and running on your local machine, follow these steps:
 
 | Home Page | Contact Page | Email Inquiry |
 | :---: | :---: | :---: |
-| ![PU Horse Riding Home Page](images/Screenshot%202025-06-09%20101450.jpg) | ![PU Horse Riding Contact Page](images/Screenshot%202025-06-09%20101809.jpg) | ![Email Inquiry Screenshot](images/Screenshot%202025-06-09%20101900.png) |
+| ![PU Horse Riding Home Page](![Screenshot 2025-06-09 101450](https://github.com/user-attachments/assets/72212a56-992f-443a-9900-bf54ae5e305f)
+) | ![PU Horse Riding Contact Page](images/Screenshot%202025-06-09%20101809.jpg) | ![Email Inquiry Screenshot](images/Screenshot%202025-06-09%20101900.png) |
