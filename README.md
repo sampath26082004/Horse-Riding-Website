@@ -86,7 +86,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## 📸 Screenshots
 
-| [Screenshot 2025-06-09 101450](https://github.com/user-attachments/assets/72212a56-992f-443a-9900-bf54ae5e305f)
+| (![Screenshot 2025-06-09 101450](https://github.com/user-attachments/assets/72212a56-992f-443a-9900-bf54ae5e305f)
 | [Screenshot 2025-06-09 101809](https://github.com/user-attachments/assets/ae6b3c9b-8993-420d-9e92-b4b80a25f1b6)
 | [Screenshot 2025-06-09 101900](https://github.com/user-attachments/assets/35a7b4c6-3ddf-401d-9177-9dbd484975ad)
 
