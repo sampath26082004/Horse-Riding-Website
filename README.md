@@ -52,11 +52,8 @@ To get this project up and running on your local machine, follow these steps:
     Create a `.env` file in the root directory of your project. This file will contain your email service credentials necessary for the contact form to send messages. Replace the placeholder values with your actual details.
 
     ```dotenv
-    # Example .env variables for email sending (adjust based on your actual backend setup)
-    VITE_EMAIL_SERVICE_ID=your_emailjs_service_id # If using EmailJS or similar service
-    VITE_EMAIL_TEMPLATE_ID=your_emailjs_template_id
-    VITE_EMAIL_USER_ID=your_emailjs_user_id
-    # OR if using a direct Node.js backend with Nodemailer:
+   
+    #  if using a direct Node.js backend with Nodemailer:
     # MAIL_HOST=smtp.your-email-provider.com
     # MAIL_PORT=587 # Or 465 for SSL
     # MAIL_USER=your_business_email@example.com
@@ -64,7 +61,6 @@ To get this project up and running on your local machine, follow these steps:
     # RECEIVING_EMAIL=your_business_email@example.com
     ```
 
-    *Note: If you're using a client-side email solution like EmailJS, the variables will be prefixed with `VITE_`.*
 
 4.  **Start the Development Server**:
     Launch the application in development mode.
@@ -93,4 +89,6 @@ To get this project up and running on your local machine, follow these steps:
 | Home Page | Contact Page | Email Inquiry |
 | :---: | :---: | :---: |
 | ![PU Horse Riding Home Page](![Screenshot 2025-06-09 101450](https://github.com/user-attachments/assets/72212a56-992f-443a-9900-bf54ae5e305f)
-) | ![PU Horse Riding Contact Page](images/Screenshot%202025-06-09%20101809.jpg) | ![Email Inquiry Screenshot](images/Screenshot%202025-06-09%20101900.png) |
+| ![PU Horse Riding Contact Page](![Screenshot 2025-06-09 101809](https://github.com/user-attachments/assets/ae6b3c9b-8993-420d-9e92-b4b80a25f1b6)
+| ![Email Inquiry Screenshot](![Screenshot 2025-06-09 101900](https://github.com/user-attachments/assets/35a7b4c6-3ddf-401d-9177-9dbd484975ad)
+|
